@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="findex"
+        android:label="FinDex"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

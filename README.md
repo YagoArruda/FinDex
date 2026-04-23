@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ```
 flutter pub get
-´´´
+
+flutter pub run flutter_launcher_icons
